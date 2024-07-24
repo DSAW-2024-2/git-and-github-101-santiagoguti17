@@ -9,6 +9,6 @@
 
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
-- **Nombre completo:** soihdfñoasdhf 
-- **ID de la Universidad:** ñiodhfohd
-- **Usuario de Github:** dhfñowdhfaw
+- **Nombre completo:** Santiago Gutiérrez 
+- **ID de la Universidad:** santiagoguba
+- **Usuario de Github:** santiagoguti17
